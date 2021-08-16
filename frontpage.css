@@ -1,0 +1,14 @@
+.front 
+{
+    display : flex;
+    flex-direction : row;
+}
+.front img
+{
+    width: 700px;
+    height: 610px;
+}
+a
+{
+   text-decoration: none;
+}
